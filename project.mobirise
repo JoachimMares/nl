@@ -34,7 +34,7 @@
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/12002824-835648993223042-4922577269843136205-n-128x128-1.png",
     "noImageResize": "",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
